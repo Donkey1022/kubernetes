@@ -1,0 +1,14 @@
+{
+	"files": [
+		{
+			"path": "pkg/kubelet/kubelet.go",
+			"bookmarks": [
+				{
+					"line": 1555,
+					"column": 0,
+					"label": "入口"
+				}
+			]
+		}
+	]
+}
